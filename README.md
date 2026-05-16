@@ -51,6 +51,8 @@ Este projeto foi desenvolvido de raiz por uma **equipa de 4 pessoas** e submetid
    ```bash
    pip install langgraph langchain langchain-openai langchain-google-genai sympy python-dotenv streamlit
 2. **Alterar a chave da API**
+   ```bash
    export GOOGLE_API_KEY="a-sua-chave-aqui"
-2. **Para executar**
+3. **Para executar**
+   ```bash
    python -m streamlit run app.py ou streamlit run app.py ou py -m streamlit run app.py
